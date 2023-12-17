@@ -1,6 +1,17 @@
 # WeShare
 
-## Getting Started
+## Run on Local System
+
+- Runs the app in the development mode.
+  
+ ```bash
+   npm start
+```
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.
+
+## Contributing
 
 **1.** Fork [this](https://github.com/uttamsah724/WeShare) repository.  
 Click on the <a href="https://github.com/uttamsah724/WeShare"><img src="https://img.icons8.com/ios/24/000000/code-fork.png"></a> symbol at the top right corner.
@@ -50,21 +61,9 @@ git push -u origin <your_branch_name>
 
 **NOTE**: **Feel free to [open issues](https://github.com/uttamsah724/WeShare/issues/new/choose)**.
 
-
-## Run on Local System
-
-- Runs the app in the development mode.
-  
- ```bash
-   npm start
-```
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.
-
 > **_Need help?_** 
 > **_Feel free to contact me @ [uttamkumarsah111@gmail.com](mailto:uttamkumarsah111@gmail.com?Subject=WeShare)_**
 
 ---
 
-[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://www.linkedin.com/in/premchandra-singh/) [![smile please](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://github.com/pcsingh/)
+[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://www.linkedin.com/in/uttamsah/) [![smile please](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://github.com/uttamsah724/)
